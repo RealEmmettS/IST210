@@ -1,0 +1,1 @@
+SELECT Name, SurfaceArea FROM country;
